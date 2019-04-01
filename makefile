@@ -1,5 +1,6 @@
 # make file for dioci posix tests (simple interpreter for embedded systems)
 # @author M A Chatterjee <deftio [at] deftio [dot] com>
+# curtis - Testing
 
 # test coverage is achieved usding gcov (part of gcc suite)
 # this is done with the flags  -ftest-coverage -fprofile-arcs 
